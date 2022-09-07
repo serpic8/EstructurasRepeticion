@@ -123,6 +123,7 @@ namespace pjControlFacturas
             elementosFila[2] = tGold.ToString();
             row = new ListViewItem(elementosFila);
             lvEstadistica.Items.Add(row);
+            // xdddddddddddddddddddddddddddd
         }
     }
 }
